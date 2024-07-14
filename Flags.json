@@ -22,8 +22,10 @@
 
     "Whitelist": {
       "Message": "No access.",
-      "Access": {},
-      "Friends": false
+      "Access": [
+        "Horseheartleah"
+      ],
+      "Friends": true
     }
   
 }
