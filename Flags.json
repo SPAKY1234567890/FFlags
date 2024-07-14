@@ -18,6 +18,12 @@
     "Gifting": {
       "Enabled": true,
       "ReturnUnclaimedDonations": true
+    },
+
+    "Whitelist": {
+      "Message": "No access.",
+      "Access": {},
+      "Friends": false
     }
   
 }
