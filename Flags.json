@@ -23,7 +23,7 @@
     "Whitelist": {
       "Message": "No access.",
       "Access": [],
-      "Friends": false
+      "Friends": true
     }
   
 }
