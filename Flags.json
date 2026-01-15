@@ -1,20 +1,14 @@
-[
-    
-    "Founders": [
-      4085611661,
-      1719465213
-    ],
-
-    "Gifting": [
-        "IsEnabled": true,
-        "IsEnabledGlobally": true
-    ],
-
-    "Access": [
-
-        "AdminPanel": [],
-        "Commands": [],
-        
-    ]
-  
-]
+{
+  "Founders": [
+    4085611661,
+    1719465213
+  ],
+  "Gifting": {
+    "IsEnabled": true,
+    "IsEnabledGlobally": true
+  },
+  "Access": {
+    "AdminPanel": [],
+    "Commands": []
+  }
+}
