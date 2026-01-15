@@ -1,0 +1,1 @@
+WebConfiguration for rivals modded.
