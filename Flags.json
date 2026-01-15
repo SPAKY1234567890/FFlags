@@ -7,9 +7,5 @@
     "IsEnabled": true,
     "IsEnabledGlobally": true
   },
-  "Access": {
-    "dontdoit": [],
-    "AdminPanel": [],
-    "Commands": []
-  }
+  "Access": [67]
 }
