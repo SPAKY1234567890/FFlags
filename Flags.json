@@ -1,29 +1,20 @@
 {
-
-    "Billboards": {
-      "FireAdGlobaly": false,
-      "Limit": 100,
-      "PuchrasingAvailable": true
-    },
-  
+    
     "Founders": [
       4085611661,
       1719465213
     ],
-  
-    "Locator": {
-      "Enabled": true
-    },
-  
-    "Gifting": {
-      "Enabled": true,
-      "ReturnUnclaimedDonations": true
-    },
 
-    "Whitelist": {
-      "Message": "No access.",
-      "Access": [],
-      "Friends": true
-    }
+    "Gifting": [
+        "IsEnabled": true,
+        "IsEnabledGlobally": true
+    ],
+
+    "Access": [
+
+        "AdminPanel": [],
+        "Commands": [],
+        
+    ]
   
 }
